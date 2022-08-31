@@ -1,6 +1,6 @@
 # Evaluacion_Guia_Ejercicios
 Gabriel Chang
 
-Archivos de Proyecto para Primer Ejercicio
+Metodología y Programación Orientada a Objetos
 
-Dos clases: principal (GabrielChangGuiaEj1.java , Trabajador.java)
+Archivos de Proyectos para Ejercicios 1 y 2 de Guia de Evaluación
